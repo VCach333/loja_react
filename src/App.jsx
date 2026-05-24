@@ -2,14 +2,18 @@
 import 'materialize-css/dist/css/materialize.min.css'
 
 /* style import */
-import './App.css';
+import './App.css'
+//import './styles/colors.css'
+
+/* component import */
+import Navbar from './component/Layout/Navbar'
 
 function App() {
   return (
-    <div className='container blue white-text'>
-      Init
-    </div>
-  );
+    <>
+      <Navbar />
+    </>
+  )
 }
 
-export default App;
+export default App
