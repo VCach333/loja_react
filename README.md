@@ -20,3 +20,6 @@
 2. In your command line navigate to folder downloaded with command as `cd loja_react`.
 3. After download success, run the command `npm install`.
     - It'll download all package (dependecies) of Project. 
+4. Now, You can run `npm start`.
+    - It'll run the server app and open the browser in `http://localhost:3000`.
+        - If the PORT 3000 is unavaliable use the PORT that server paste
