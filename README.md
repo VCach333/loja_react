@@ -34,8 +34,12 @@
 **Routes**
 `npm install react-router-dom`
 
+**CSS Framework**
+`npm install materialize-css@next`
+
 ## Copy Here
 ```bash
 npm install react-icons
 npm install react-router-dom
+npm install materialize-css@next
 ```
