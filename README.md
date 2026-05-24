@@ -23,3 +23,19 @@
 4. Now, You can run `npm start`.
     - It'll run the server app and open the browser in `http://localhost:3000`.
         - If the PORT 3000 is unavaliable use the PORT that server paste
+
+
+
+# Package installed
+
+**Icons**
+`npm install react-icons`
+
+**Routes**
+`npm install react-router-dom`
+
+## Copy Here
+```bash
+npm install react-icons
+npm install react-router-dom
+```
