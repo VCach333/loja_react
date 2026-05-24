@@ -7,11 +7,11 @@
 ## Using on your Computer
 
 ### Requirements
-1. NodeJS (w/ npm).
-    - Download this tool on https://code.visualstudio.org/download and install.
+1. NodeJS (including npm).
+    - [Download](https://code.visualstudio.com/download) these tools and install. Avaliable on https://code.visualstudio.com/download.
     - In your command line run the commands `node --version` and `npm --version` and it must return the version of these tools.
 2. Git.
-    - Download this tool on http://git-scm.com/downloads and install.
+    - [Download](http://git-scm.com/downloads) this tool and install. Avaliable on http://git-scm.com/downloads.
     - In your command line run the command `git --version` and it must return the version of this tool.
 
 ### Importing this Project into your Computer
